@@ -53,6 +53,64 @@ otherwise would have been imported from the NEWNE grid.
 ______
 The project activity involves 2 Wind Turbine Generator (WTG) having total capacity of 2.5 MW 
 manufactured and supplied by Suzlon Energy Ltd.
-_________
+_______________
+MP-01 Duration : 01/01/2013 to 31/12/2021
 
+TOTAL QTY: 29810
+_________
+Serial Number: 0001-000001-003309-UCR-CoU-IN-224-01012013-31122013
+
+Vintage Year: 2013
+
+Issued Qty: 3,309
+__________________
+
+Serial Number: 0001-003310-006665-UCR-CoU-IN-224-01012014-31122014
+
+Vintage Year: 2014
+
+Issued Qty:3,356
+______________
+Serial Number: 0001-006666-009925-UCR-CoU-IN-224-01012015-31122015
+
+Vintage Year: 2015
+
+Issued Qty: 3,260
+______________
+Serial Number: 0001-009926-013369-UCR-CoU-IN-224-01012016-31122016
+
+Vintage Year: 2016
+
+Issued Qty: 3,444
+__________________
+Serial Number: 0001-013370-016514-UCR-CoU-IN-224-01012017-31122017
+
+Vintage Year: 2017
+
+Issued Qty: 3,145
+_______________
+Serial Number: 0001-016515-020091-UCR-CoU-IN-224-01012018-31122018
+
+Vintage Year: 2018
+
+Issued Qty: 3,577
+_______________
+Serial Number: 0001-020092-023590-UCR-CoU-IN-224-01012019-31122019
+
+Vintage Year: 2019
+
+Issued Qty: 3,499
+_______________
+Serial Number: 0001-023591-026574-UCR-CoU-IN-224-01012020-31122020
+
+Vintage Year: 2020
+
+Issued Qty: 2,984
+________________
+Serial Number: 0001-026575-029810-UCR-CoU-IN-224-01012021-31122021
+
+Vintage Year: 2021
+
+Issued Qty: 3236
+___________
 
