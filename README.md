@@ -56,6 +56,8 @@ manufactured and supplied by Suzlon Energy Ltd.
 _______________
 MP-01 Duration : 01/01/2013 to 31/12/2021
 
+ISSUANCE DATE: 03/07/2023
+
 TOTAL QTY: 29810
 _________
 Serial Number: 0001-000001-003309-UCR-CoU-IN-224-01012013-31122013
