@@ -33,6 +33,13 @@ Generator (WTGs) having capacity 2.5 MW manufactured and supplied by Suzlon Ener
 district Jamnagar (Currently Devbhoomi Dwarka) of the state of Gujarat in India. The project is an 
 operational activity with continuous reduction of GHG, currently being applied under “Universal 
 Carbon Registry” (UCR).
+__________
+WTG/ Latitude and Longitude /Village /Tehsil /District/Survey No
+_____________
+1.25 MW/ 21°51'38.4"N 69°19'45.6"E /Lamba/ Kalyanpur/ Devbhoomi /Dwarka /479/p
+______________
+1.25 MW /22°11'03.6"N 69°00'34.9"E/ Baradiya /Dwarka /Devbhoomi /Dwarka/ 96/p
+_____________
 
 The project activity aims to harness the kinetic energy of wind (a renewable source) to generate
 electricity. The net generated electricity from the project activity is used for captive consumption. A 
